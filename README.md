@@ -8,3 +8,8 @@ The goal of this competition is to use seismic signals to predict the timing of 
 Here we have to predict the remaining time before the next laboratory earthquakes based on the seismic data. The remaining time is meant by the remaining time between the current earthquake and the occurrence of the next earthquake.
 Since the seismic data is continuous and the real values and our target is also real value, so this is a regression problem.
 
+# Webapp Link
+https://share.streamlit.io/shivambaldha/earthquake-prediction/main/app.py
+
+# Detailed Explanation
+https://shivambaldha.medium.com/lanl-earthquake-prediction-27befe882a40
